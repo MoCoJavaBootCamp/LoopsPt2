@@ -44,12 +44,12 @@ public class LoopsPt2 {
                 case 8:
                     oneZeroLoop();
                     break;
-            case 9:
-                numIsPalindrome();
-                break;
-            case 10:
-                sum100To200Divisor();
-                break;
+                case 9:
+                    numIsPalindrome();
+                    break;
+                case 10:
+                    sum100To200Divisor();
+                    break;
                 default:
                     System.out.println("Goodbye!");
                     System.exit(1);
